@@ -1,0 +1,354 @@
+name,price,availability,type,size,rating,reviews_count
+Materac kieszeniowy Fauna,619.0,Dostępne z dostawą,kieszeniowy,120x200,4.9,18
+Materac kieszeniowy Fauna,696.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,16
+Materac kieszeniowy Fauna,769.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,4
+Materac kieszeniowy Fauna,515.0,Dostępne z dostawą,kieszeniowy,90x200,4.7,7
+Materac kieszeniowy Wenus kokos,665.0,Dostępne z dostawą,kieszeniowy,120x200,4.8,8
+Materac kieszeniowy Wenus kokos,749.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,16
+Materac kieszeniowy Wenus kokos,829.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,7
+Materac kieszeniowy Wenus kokos,545.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,6
+Materac piankowy Megana,279.0,Dostępne z dostawą,piankowy,120x200,4.8,4
+Materac piankowy Megana,325.0,Dostępne z dostawą,piankowy,140x200,4.4,5
+Materac piankowy Megana,365.0,Dostępne z dostawą,piankowy,160x200,5.0,1
+Materac piankowy Megana,199.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Megana,219.0,Dostępne z dostawą,piankowy,90x200,5.0,2
+Materac piankowy Bona kokos,469.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Bona kokos,379.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac sprężynowy Solaro kokos,619.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Solaro kokos,695.0,Dostępne z dostawą,sprężynowy,140x200,5.0,1
+Materac sprężynowy Solaro kokos,775.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Solaro kokos,505.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac kieszeniowy Atlanta molet,739.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,3
+Materac kieszeniowy Atlanta molet,829.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Atlanta molet,925.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Atlanta molet,609.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,1
+Materac kieszeniowy Foster visco,849.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Foster visco,959.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,1
+Materac kieszeniowy Foster visco,1075.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Foster visco,689.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,2
+Materac kieszeniowy Foster Max visco,875.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Foster Max visco,989.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Foster Max visco,1099.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,1
+Materac kieszeniowy Foster Max visco,699.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Wenus Max kokos,759.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,1
+Materac kieszeniowy Wenus Max kokos,855.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,2
+Materac kieszeniowy Wenus Max kokos,615.0,Dostępne z dostawą,kieszeniowy,90x200,4.0,1
+Materac piankowy Bona kokos,529.0,Dostępne z dostawą,piankowy,140x200,5.0,2
+Materac piankowy Bona kokos,595.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Lao FAN lateks,839.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Lao FAN lateks,959.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy Lao FAN lateks,1069.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Sefora molet,479.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Sefora molet,539.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Sefora molet,599.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Sefora molet,389.0,Dostępne z dostawą,piankowy,90x200,5.0,1
+Materac piankowy wysokoelastyczny HR Antares,875.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy wysokoelastyczny HR Antares,1005.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy wysokoelastyczny HR Antares,1129.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy wysokoelastyczny HR Antares,675.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy wysokoelastyczny HR Antares,675.0,Dostępne z dostawą,piankowy,90x200,5.0,1
+Materac termoelastyczny Dione FAN visco,769.0,Dostępne z dostawą,piankowy,120x200,5.0,5
+Materac termoelastyczny Dione FAN visco,879.0,Dostępne z dostawą,piankowy,140x200,4.0,1
+Materac termoelastyczny Dione FAN visco,605.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac kieszeniowy Atena kokos,709.0,Dostępne z dostawą,kieszeniowy,120x200,4.8,6
+Materac kieszeniowy Atena kokos,799.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,6
+Materac kieszeniowy Atena kokos,889.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,7
+Materac kieszeniowy Atena kokos,579.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,4
+Materac kieszeniowy Naos lateks,1069.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,1
+Materac kieszeniowy Naos lateks,1215.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Naos lateks,865.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Rodos kokos + lateks,925.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,1
+Materac kieszeniowy Rodos kokos + lateks,1049.0,Dostępne z dostawą,kieszeniowy,140x200,4.0,1
+Materac kieszeniowy Rodos kokos + lateks,1175.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Rodos kokos + lateks,745.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,1
+Materac kieszeniowy Selene visco,1045.0,Dostępne z dostawą,kieszeniowy,120x200,4.0,1
+Materac kieszeniowy Selene visco,1185.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Selene visco,1329.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Selene visco,839.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Tasmania kokos,615.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,2
+Materac kieszeniowy Tasmania kokos,689.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,3
+Materac kieszeniowy Tasmania kokos,765.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Tasmania kokos,509.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Wega visco,1035.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Wega visco,1169.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,1
+Materac kieszeniowy Wega visco,1309.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,2
+Materac kieszeniowy Wega visco,835.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac piankowy Bari 8x,185.0,Dostępne z dostawą,piankowy,90x200,5.0,1
+Materac piankowy Alan visco,899.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Alan visco,1159.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Alan visco,699.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Aster molet,595.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Bari,269.0,Dostępne z dostawą,piankowy,120x200,5.0,3
+Materac piankowy Bari,309.0,Dostępne z dostawą,piankowy,140x200,5.0,4
+Materac piankowy Bari,349.0,Dostępne z dostawą,piankowy,160x200,5.0,2
+Materac piankowy Bari,165.0,Dostępne z dostawą,piankowy,80x200,5.0,1
+Materac piankowy Celesta kokos molet,575.0,Dostępne z dostawą,piankowy,120x200,5.0,2
+Materac piankowy Celesta kokos molet,649.0,Dostępne z dostawą,piankowy,140x200,5.0,2
+Materac piankowy Celesta kokos molet,725.0,Dostępne z dostawą,piankowy,160x200,5.0,1
+Materac piankowy Celesta kokos molet,435.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Celesta kokos molet,459.0,Dostępne z dostawą,piankowy,90x200,4.0,1
+Materac piankowy Dorado lateks,1235.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Dorado lateks,1405.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Dorado lateks,1575.0,Dostępne z dostawą,piankowy,160x200,5.0,1
+Materac piankowy Dorado lateks,969.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Dorado lateks,975.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Erato visco,895.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Erato visco,1025.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy Erato visco,1149.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Erato visco,679.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Hypnos visco,759.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Hypnos visco,865.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Hypnos visco,969.0,Dostępne z dostawą,piankowy,160x200,5.0,1
+Materac piankowy Hypnos visco,575.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Hypnos visco,605.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Izar kokos + molet,895.0,Dostępne z dostawą,piankowy,120x200,5.0,2
+Materac piankowy Izar kokos + molet,1009.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Izar kokos + molet,1129.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Izar kokos + molet,719.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Kleo visco,199.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Klio,785.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Klio,889.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Klio,599.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Klio,629.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Libra,809.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Libra,919.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy Libra,1029.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Libra,609.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Libra,639.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Lili kokos + latex,215.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Lulu kokos + visco,215.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Maja latex,199.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Milos lateks,895.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Milos lateks,1019.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Milos lateks,1149.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Milos lateks,675.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Milos lateks,699.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Mimi,109.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Smyk kokos,155.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Star latex + visco,259.0,Dostępne z dostawą,piankowy,60x120,,0
+Materac piankowy Stratus,889.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Stratus,1015.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Stratus,1139.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Stratus,695.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Talia lateks,895.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Talia lateks,1019.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Talia lateks,1149.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Talia lateks,675.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Talia lateks,699.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy wysokoelastyczny HR + visco Kepler,965.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy wysokoelastyczny HR + visco Kepler,975.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac sprężynowy Alma visco memory,705.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Alma visco memory,799.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Alma visco memory,889.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Alma visco memory,569.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Laura kokos visco,949.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Luna kokos molet,769.0,Dostępne z dostawą,sprężynowy,120x200,5.0,1
+Materac sprężynowy Luna kokos molet,859.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Luna kokos molet,955.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Luna kokos molet,525.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Magna,489.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Magna,545.0,Dostępne z dostawą,sprężynowy,140x200,5.0,2
+Materac sprężynowy Magna,599.0,Dostępne z dostawą,sprężynowy,160x200,5.0,2
+Materac sprężynowy Magna,405.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac kieszeniowy Naos lateks,749.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Artemida molet,899.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,1
+Materac kieszeniowy Artemida molet,1015.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Artemida molet,1129.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Artemida molet,735.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Atlanta Max molet,879.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Atlanta Max molet,995.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Atlanta Max molet,1099.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Atlanta Max molet,619.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Atria kokos + lateks,1115.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Atria kokos + lateks,1269.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,1
+Materac kieszeniowy Atria kokos + lateks,1419.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Atria kokos + lateks,899.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Beta,569.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Beta,635.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,1
+Materac kieszeniowy Beta,705.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,1
+Materac kieszeniowy Beta,475.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Elena kokos,615.0,Dostępne z dostawą,kieszeniowy,120x200,5.0,1
+Materac kieszeniowy Elena kokos,689.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Elena kokos,765.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Elena kokos,509.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Evans,875.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Evans,989.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Evans,1105.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Evans,709.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Fauna Max,715.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Fauna Max,799.0,Dostępne z dostawą,kieszeniowy,140x200,5.0,1
+Materac kieszeniowy Fauna Max,885.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,1
+Materac kieszeniowy Fauna MAX,579.0,Dostępne z dostawą,kieszeniowy,90x200,5.0,1
+Materac kieszeniowy Korfu lateks,875.0,Dostępne z dostawą,kieszeniowy,120x200,,0
+Materac kieszeniowy Korfu lateks,995.0,Dostępne z dostawą,kieszeniowy,140x200,,0
+Materac kieszeniowy Korfu lateks,1109.0,Dostępne z dostawą,kieszeniowy,160x200,5.0,2
+Materac kieszeniowy Korfu lateks,709.0,Dostępne z dostawą,kieszeniowy,90x200,,0
+Materac kieszeniowy Naos lateks,1359.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac kieszeniowy Wenus Max kokos,945.0,Dostępne z dostawą,kieszeniowy,160x200,,0
+Materac piankowy Alan visco,1029.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Alan visco,705.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Ariel kokos,235.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Ariel kokos,236.0,Dostępne z dostawą,piankowy,80x160,5.0,4
+Materac piankowy Ariel kokos,266.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Ariel kokos,266.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Ariel kokos,269.0,Dostępne z dostawą,piankowy,90x200,5.0,1
+Materac piankowy Aster molet,755.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Aster molet,859.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Aster molet,959.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Aster molet,599.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Atus,605.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Atus,689.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Atus,779.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Atus,465.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Atus,469.0,Dostępne z dostawą,piankowy,90x200,5.0,2
+Materac piankowy Blanka visco,325.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Blanka visco,328.0,Dostępne z dostawą,piankowy,80x160,,0
+Materac piankowy Blanka visco,334.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Blanka visco,334.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Blanka visco,355.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Bona kokos,355.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Bufallo,685.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Bufallo,775.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Bufallo,865.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Bufallo,519.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Bufallo,549.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Como Elastic,409.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Como Elastic,475.0,Dostępne z dostawą,piankowy,140x200,5.0,2
+Materac piankowy Como Elastic,535.0,Dostępne z dostawą,piankowy,160x200,5.0,3
+Materac piankowy Como Elastic,315.0,Dostępne z dostawą,piankowy,80x200,5.0,2
+Materac piankowy Como Elastic,319.0,Dostępne z dostawą,piankowy,90x200,4.9,9
+Materac piankowy Dia FAN kokos,719.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Dia FAN kokos,825.0,Dostępne z dostawą,piankowy,140x200,5.0,2
+Materac piankowy Dia FAN kokos,915.0,Dostępne z dostawą,piankowy,160x200,5.0,1
+Materac piankowy Dia FAN kokos,529.0,Dostępne z dostawą,piankowy,80x200,5.0,1
+Materac piankowy Dia FAN kokos,569.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Erato visco,709.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Estera kokos + lateks,389.0,Dostępne z dostawą,piankowy,70x160,5.0,1
+Materac piankowy Estera kokos + lateks,413.0,Dostępne z dostawą,piankowy,80x160,5.0,7
+Materac piankowy Estera kokos + lateks,439.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Estera kokos + lateks,439.0,Dostępne z dostawą,piankowy,80x200,5.0,1
+Materac piankowy Estera kokos + lateks,463.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Hati FAN molet,625.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Hati FAN molet,705.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy Hati FAN molet,779.0,Dostępne z dostawą,piankowy,160x200,5.0,2
+Materac piankowy Hati FAN molet,459.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Hati FAN molet,495.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Hiacynt kokos + visco,379.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Hiacynt kokos + visco,382.0,Dostępne z dostawą,piankowy,80x160,5.0,3
+Materac piankowy Hiacynt kokos + visco,407.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Hiacynt kokos + visco,407.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Hiacynt kokos + visco,428.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Hugo lateks,335.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Hugo lateks,359.0,Dostępne z dostawą,piankowy,80x160,5.0,1
+Materac piankowy Hugo lateks,365.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Hugo lateks,365.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Hugo lateks,390.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Kale FAN kokos,645.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Kale FAN kokos,735.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy Kale FAN kokos,809.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Kale FAN kokos,469.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Kale FAN kokos,509.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Klio,999.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Korel kokos,429.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Korel kokos,475.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Korel kokos,525.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Korel kokos,315.0,Dostępne z dostawą,piankowy,80x200,5.0,1
+Materac piankowy Korel kokos,339.0,Dostępne z dostawą,piankowy,90x200,5.0,3
+Materac piankowy Lao FAN lateks,599.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Lao FAN lateks,655.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Leda FAN,465.0,Dostępne z dostawą,piankowy,120x200,5.0,1
+Materac piankowy Leda FAN,535.0,Dostępne z dostawą,piankowy,140x200,5.0,2
+Materac piankowy Leda FAN,589.0,Dostępne z dostawą,piankowy,160x200,4.0,1
+Materac piankowy Leda FAN,329.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Leda FAN,365.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Leon,135.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Leon,138.0,Dostępne z dostawą,piankowy,80x160,,0
+Materac piankowy Leon,145.0,Dostępne z dostawą,piankowy,80x190,5.0,3
+Materac piankowy Leon,145.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Mio,145.0,Dostępne z dostawą,piankowy,80x160,,0
+Materac piankowy Monaco,309.0,Dostępne z dostawą,piankowy,120x200,5.0,2
+Materac piankowy Monaco,355.0,Dostępne z dostawą,piankowy,140x200,4.7,3
+Materac piankowy Monaco,399.0,Dostępne z dostawą,piankowy,160x200,4.0,1
+Materac piankowy Monaco,215.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Monaco,239.0,Dostępne z dostawą,piankowy,90x200,5.0,5
+Materac piankowy Narvi FAN molet,699.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Narvi FAN molet,795.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Narvi FAN molet,879.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Narvi FAN molet,519.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Narvi FAN molet,555.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Neso FAN lateks,759.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Neso FAN lateks,869.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Neso FAN lateks,965.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Neso FAN lateks,545.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Neso FAN lateks,599.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Orion kokos + molet,305.0,Dostępne z dostawą,piankowy,70x160,5.0,1
+Materac piankowy Orion kokos + molet,308.0,Dostępne z dostawą,piankowy,80x160,5.0,7
+Materac piankowy Orion kokos + molet,345.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Orion kokos + molet,345.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Orion kokos + molet,348.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Parys molet,251.0,Dostępne z dostawą,piankowy,70x160,,0
+Materac piankowy Parys molet,254.0,Dostępne z dostawą,piankowy,80x160,5.0,2
+Materac piankowy Parys molet,272.0,Dostępne z dostawą,piankowy,80x190,5.0,1
+Materac piankowy Parys molet,272.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Parys molet,275.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Sefora molet,365.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Stratus,705.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Tebe FAN,599.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy Tebe FAN,679.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy Tebe FAN,749.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy Tebe FAN,439.0,Dostępne z dostawą,piankowy,80x200,5.0,1
+Materac piankowy Tebe FAN,475.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Teo,169.0,Dostępne z dostawą,piankowy,70x160,5.0,1
+Materac piankowy Teo,175.0,Dostępne z dostawą,piankowy,80x160,,0
+Materac piankowy Teo,195.0,Dostępne z dostawą,piankowy,80x190,,0
+Materac piankowy Teo,195.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy Teo,199.0,Dostępne z dostawą,piankowy,90x200,5.0,3
+Materac piankowy wysokoelastyczny HR + lateks Syriusz,1179.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy wysokoelastyczny HR + visco Kepler,1235.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac piankowy wysokoelastyczny HR + lateks Syriusz,1355.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac piankowy wysokoelastyczny HR + visco Kepler,1415.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac piankowy wysokoelastyczny HR + lateks Syriusz,1519.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy wysokoelastyczny HR + visco Kepler,1595.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac piankowy wysokoelastyczny HR + lateks Syriusz,905.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac piankowy wysokoelastyczny HR + lateks Syriusz,929.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac sprężynowy Diana,729.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Diana,825.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Diana,915.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Diana,589.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Laura kokos visco,749.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Laura kokos visco,849.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Laura kokos visco,599.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Midea molet,715.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Midea molet,799.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Midea molet,885.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Midea molet,489.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Palmea kokos,535.0,Dostępne z dostawą,sprężynowy,120x200,,0
+Materac sprężynowy Palmea kokos,599.0,Dostępne z dostawą,sprężynowy,140x200,,0
+Materac sprężynowy Palmea kokos,659.0,Dostępne z dostawą,sprężynowy,160x200,,0
+Materac sprężynowy Palmea kokos,439.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac sprężynowy Stella,575.0,Dostępne z dostawą,sprężynowy,120x200,4.5,2
+Materac sprężynowy Stella,645.0,Dostępne z dostawą,sprężynowy,140x200,5.0,1
+Materac sprężynowy Stella,715.0,Dostępne z dostawą,sprężynowy,160x200,5.0,1
+Materac sprężynowy Stella,469.0,Dostępne z dostawą,sprężynowy,90x200,,0
+Materac termoelastyczny Dione FAN visco,975.0,Dostępne z dostawą,piankowy,160x200,4.5,2
+Materac termoelastyczny Dione FAN visco,569.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac termoelastyczny Tytan FAN visco,845.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac termoelastyczny Tytan FAN visco,969.0,Dostępne z dostawą,piankowy,140x200,5.0,1
+Materac termoelastyczny Tytan FAN visco,1079.0,Dostępne z dostawą,piankowy,160x200,4.5,4
+Materac termoelastyczny Tytan FAN visco,625.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac termoelastyczny Tytan FAN visco,659.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac Turystyczny składanycm Zet1 + torba,155.0,Chwilowe ograniczenia w dostawie,turystyczny,65x195,5.0,2
+Materac Turystyczny składanycm Zet2 + torba,205.0,Chwilowe ograniczenia w dostawie,turystyczny,80x195,,0
+Materac wysokoelastyczny Elara FAN,835.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac wysokoelastyczny Elara FAN,955.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac wysokoelastyczny Elara FAN,1059.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac wysokoelastyczny Elara FAN,625.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac wysokoelastyczny Elara FAN,659.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac wysokoelastyczny Skadi FAN,759.0,Dostępne z dostawą,piankowy,120x200,,0
+Materac wysokoelastyczny Skadi FAN,865.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac wysokoelastyczny Skadi FAN,959.0,Dostępne z dostawą,piankowy,160x200,,0
+Materac wysokoelastyczny Skadi FAN,565.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac wysokoelastyczny Skadi FAN,599.0,Dostępne z dostawą,piankowy,90x200,,0
+Materac piankowy Leon,109.0,Dostępne z dostawą,piankowy,80x200,,0
+Materac termoelastyczny Tytan FAN visco,849.0,Dostępne z dostawą,piankowy,140x200,,0
+Materac termoelastyczny Tytan FAN visco,945.0,Dostępne z dostawą,piankowy,160x200,,0
